@@ -6,6 +6,8 @@ TEMPLATE = app
 TARGET = 
 DEPENDPATH += .
 INCLUDEPATH += .
+QT +=gui
+QT +=widgets
 
 # Input
 HEADERS += spiel.h spiel.cpp
