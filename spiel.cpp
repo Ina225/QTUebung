@@ -13,6 +13,8 @@ void spiel::keyPressEvent(QKeyEvent *event){
 void spiel::showEvent(QShowEvent *){
    myTimerId = startTimer(10);
 }
+
+
  
 void spiel::timerEvent(QTimerEvent * event){
    if (event->timerId() == myTimerId){
