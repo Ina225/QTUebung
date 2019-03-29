@@ -1,4 +1,4 @@
-#include <QtGui/QLabel>
+#include <QLabel>
 #include <QDialog>
 #include <QKeyEvent>
 #include <QApplication>
