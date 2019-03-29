@@ -1,8 +1,7 @@
-#include <QLabel>
+#include <QtGui/QLabel>
 #include <QDialog>
 #include <QKeyEvent>
 #include <QApplication>
-//#include <QtGui>
 
 #include "spiel.h"
 #include "spiel.cpp"

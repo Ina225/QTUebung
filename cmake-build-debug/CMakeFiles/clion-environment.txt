@@ -1,3 +1,4 @@
-ToolSet: 1.0 (local)Options: 
+ToolSet: 5.2@C:\MinGW
+Options: 
 
 Options:-DCMAKE_PREFIX_PATH=/opt/Qt/5.12.2/gcc_64/lib/cmake

@@ -1,3 +1,0 @@
-/home/florian/Dropbox/Schule/C++ Learn/QTTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/florian/Dropbox/Schule/C++ Learn/QTTest/cmake-build-debug/CMakeFiles/QTTest.dir
-/home/florian/Dropbox/Schule/C++ Learn/QTTest/cmake-build-debug/CMakeFiles/edit_cache.dir
