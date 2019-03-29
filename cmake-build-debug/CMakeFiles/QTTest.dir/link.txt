@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/QTTest.dir/main.cpp.o  -o QTTest -Wl,-rpath,/opt/Qt/5.12.2/gcc_64/lib /opt/Qt/5.12.2/gcc_64/lib/libQt5Widgets.so.5.12.2 /opt/Qt/5.12.2/gcc_64/lib/libQt5Gui.so.5.12.2 /opt/Qt/5.12.2/gcc_64/lib/libQt5Core.so.5.12.2 
