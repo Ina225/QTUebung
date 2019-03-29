@@ -2,7 +2,7 @@ sudo: required
 dist: trusty
 
 before_install:
-- sudo add-apt-repository --yes ppa:beineri/opt-qt551-trusty
+- sudo add-apt-repository --yes ppa:ubuntu-sdk-team/ppa
 - sudo apt-get update -qq
 
 install:
@@ -11,8 +11,6 @@ install:
 - sudo apt-get install qt5-default qttools5-dev-tools
 
 script:
-- source /opt/qt55/bin/qt55-env.sh
-- cd src
-- /opt/qt55/bin/qmake -project
-- /opt/qt55/bin/qmake
+- qmake -project
+- qmake
 - make
