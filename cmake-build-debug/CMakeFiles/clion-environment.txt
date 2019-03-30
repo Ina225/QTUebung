@@ -1,4 +1,4 @@
-ToolSet: 5.2@C:\MinGW
+ToolSet: w64 6.0@D:\Qt\Tools\mingw730_32
 Options: 
 
 Options:-DCMAKE_PREFIX_PATH=/opt/Qt/5.12.2/gcc_64/lib/cmake

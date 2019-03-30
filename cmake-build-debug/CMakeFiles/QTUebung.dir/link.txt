@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\QTUebung.dir/objects.a
+D:\Qt\Tools\mingw730_32\bin\ar.exe cr CMakeFiles\QTUebung.dir/objects.a @CMakeFiles\QTUebung.dir\objects1.rsp
+D:\Qt\Tools\mingw730_32\bin\g++.exe  -std=c++11 -g   -Wl,--whole-archive CMakeFiles\QTUebung.dir/objects.a -Wl,--no-whole-archive  -o QTUebung.exe -Wl,--out-implib,libQTUebung.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QTUebung.dir\linklibs.rsp

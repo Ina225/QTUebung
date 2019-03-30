@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6"/>
 	<Project>
-		<Option title="QTTest"/>
+		<Option title="QTUebung"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
 		<Option virtualFolders="CMake Files\;CMake Files\Qt\;CMake Files\Qt\5.12.2\;CMake Files\Qt\5.12.2\mingw73_32\;CMake Files\Qt\5.12.2\mingw73_32\lib\;CMake Files\Qt\5.12.2\mingw73_32\lib\cmake\;CMake Files\Qt\5.12.2\mingw73_32\lib\cmake\Qt5Widgets\;CMake Files\Qt\5.12.2\mingw73_32\lib\cmake\Qt5Gui\;CMake Files\Qt\5.12.2\mingw73_32\lib\cmake\Qt5Core\;"/>
@@ -98,7 +98,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Florian/Documents/GitHub/QTUebung">
+		<Unit filename="C:/Users/Florian/Documents/GitHub/QTUebung/src/main.cpp">
+			<Option target="QTUebung"/>
+		</Unit>
+		<Unit filename="C:/Users/Florian/Documents/GitHub/QTUebung/src/spiel.cpp">
+			<Option target="QTUebung"/>
+		</Unit>
+		<Unit filename="C:/Users/Florian/Documents/GitHub/QTUebung/src/spiel.h">
 			<Option target="QTUebung"/>
 		</Unit>
 		<Unit filename="C:/Users/Florian/Documents/GitHub/QTUebung/CMakeLists.txt">

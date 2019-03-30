@@ -1,6 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2018.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/opt/Qt/5.12.2/gcc_64/lib/cmake -G "CodeBlocks - MinGW Makefiles" C:\Users\Florian\Documents\GitHub\QTUebung
-CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
-  CMake 3.13 or higher is required.  You are running version 3.12.0
-
-
--- Configuring incomplete, errors occurred!
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/opt/Qt/5.12.2/gcc_64/lib/cmake -G "CodeBlocks - MinGW Makefiles" C:\Users\Florian\Documents\GitHub\QTUebung
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Florian/Documents/GitHub/QTUebung/cmake-build-debug
